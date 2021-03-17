@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>20181637 Sang min Han</title>
+</head>
+<body>
+
+<h1>"Shoot me instead of him." Kneeling Myanmar nun.</h1>
+<br>
+<br>
+
+<p>
+  According to the Guardian on the 9th (local time), Sister An Rose Nuthaung (nun Rose), a member of St. Francis Saberio's convent<br>
+   in Michini City, Myanmar, knelt in front of heavily armed military police and begged them not to take their children's lives.
+  "I knelt<br> down and begged her not to shoot or torture the children, but rather kill me," Rose told the newspaper.
+  <br>
+  <br>Myanmar's military has been cracking down on civilians, including live ammunition and tear gas, after a February 1 coup.
+  Citizens<br> took to the streets with helmets and homemade shields in Michini, northern Myanmar. Myanmar's military and police
+   began to<br> flock around the protesters to suppress them.<br>
+   <br>
+  Rose and two other nuns begged to go to the police and go somewhere else. Some military and police officers were seen listening<br>
+   to the nun when Sister Rose knelt down, kneeling down and listened to the nun.
+   <br>
+   <br>
+   But while Rose was on her knees, the military and police began shooting at the protesters behind her. Eventually, a man was 
+  shot<br> and killed in front of Sister Rose.
+  Sister Rose told the newspaper, "The children ran to the front in embarrassment. "I had no choice<br> but to pray to God to 
+  save them without doing anything."
+<br>
+<br>
+<b> From:[Jose Daily] Reporter Kang Dae-kyung<br>
+<br>
+<b><a href="http://www.joseilbo.com/news/htmls/2021/03/20210310418763.html"> Go to see more articles</a>
+</body>
+</html>
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <h2>2021 LoL Champions Korea Spring season ranking </h2>   
+    
+<style>
+table {
+  width:40%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+
+<table id="t01">
+    <tr>
+        <th>Team name</th>
+        <th>Victory</th>
+        <th>Defeat</th> 
+        <th>gains and losses</th>
+        <th>Ranking</th>
+    </tr>
+      <tr>
+        <td>Damwon kia</td>
+        <td>12</td>
+        <td>1</td>
+        <td>17</td>
+        <td>1</td> 
+    </tr>
+      
+    </tr>
+    <tr>
+      <td>Gen.G</td>
+      <td>10</td>
+      <td>4</td>
+      <td>12</td>
+      <td>2</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>DRX</td>
+      <td>9</td>
+      <td>4</td>
+      <td>3</td>
+      <td>3</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>Hanwha life</td>
+      <td>8</td>
+      <td>5</td>
+      <td>3</td>
+      <td>4</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>T1</td>
+      <td>7</td>
+      <td>7</td>
+      <td>3</td>
+      <td>5</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>KT</td>
+      <td>5</td>
+      <td>8</td>
+      <td>-4</td>
+      <td>6</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>Afreeca</td>
+      <td>4</td>
+      <td>9</td>
+      <td>-5</td>
+      <td>7</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>Nongshim</td>
+      <td>4</td>
+      <td>9</td>
+      <td>-8</td>
+      <td>8</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>Freddit</td>
+      <td>4</td>
+      <td>9</td>
+      <td>-9</td>
+      <td>9</td> 
+    </tr>
+    
+    </tr>
+    <tr>
+      <td>Liiv SB</td>
+      <td>3</td>
+      <td>10</td>
+      <td>-12</td>
+      <td>10</td> 
+    </tr>
+    </table>
+    <p>Source: Naver</p>
+</body>
+</html>
+
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<br>
+<br>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2></h2>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h2>Have European countries made a mistake in halting AstraZeneca shots? 
+        Here's what health experts say</h2>
+    <p>London (CNN)Within the space of a few days, the rollout of the Oxford-AstraZeneca Covid-19
+      vaccine has ground to a standstill in virtually all of western Europe.</p>
+    
+      <p>France, Spain, Germany, Italy and more than a dozen other countries have paused rollout of the shot, 
+      calling it a precautionary measure following concerns that it could be linked to blood clots; decisions that go against the advice of global health agencies.</p>
+      
+      <p></p>A few countries have stood by the vaccine -- including the United Kingdom, where more than 11 
+      million doses have already been administered, and where real-world data has shown vaccines are 
+      reducing infections and hospitalizations.</p>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h2>UK labels Russia top security threat, issues warning on China, 
+      and promises to build more nuclear warheads</h2>
+    <p>(CNN)Russia is Britain's top security challenge, the UK will build more nuclear 
+      weapons and London will expand its presence in the high-tech realms of space and 
+      cyberspace, Prime Minister Boris Johnson announced Tuesday in a sweeping review 
+      of British military and foreign policy.</p>
+      
+    <p>To accomplish its goals, the British government wants to increase defense spending
+       by £24 billion ($33.3 billion) over the next four years, a large increase on the 
+       £42.2 billion it spent in 2019-2020.</p>
+      
+      <p> The government also pledged tens of billions of pounds in investment in other areas,
+       including £15 billion for research and development for science and technology, 
+       more than £17 billion to fight climate change and promote biodiversity, 
+       and £13 billion in the fight against the coronavirus.</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 style="font-size:39px; color:blue;">South Korea's first asteroid exploration target, Apophis, <br>has been spotted near Earth.</h2>
+<p style="font-size:30px; color:green;"> Poor access to Earth - 43 times as much distance between the moon.</p>
+<br>
+<p style="text-align:right;">Enter article 2021.03.11 PM 6:11</p>
+<img src="test.jpg"
+style="float:left;width:550px;height:320px;">
+<p>The 370-meter-diameter asteroid Apophis approached nearly<br> 16.8 million kilometers 
+from Earth at 10:15 a.m. on the 6th of<br> this month in Korean time and passed near 
+the Earth at 4.58<br> kilometers per second. It approached 43 times the distance<br> between 
+the Earth and the moon, and passed by.</p>
+
+<p>The Korea Astronomy and Space Science Institute succeeded<br> in observing and releasing
+the video on the 10th of this<br> month through tracking and observation using 
+the 'OWL-Net'<br> from February.</p>
+
+
+<p>Asteroid Apophis is a celestial body that has been constantly<br> threatened 
+by Earth's collision since it was first discovered in<br> 2004. It is expected 
+to pass at 6:46 on April 14, 2029 at a<br> distance of approximately 37,000 km,
+very close to Earth.</p>
+
+<p style="font-size: 12px;">Video capture an asteroid Apophis.</p>
+
+<p>The observational video of Apophis, released by the Korea Astronomy and
+Space Science Institute, was taken at OWL-Net No. 4 at<br> the Lemon Mountain 
+Observatory in Arizona.</p>
+
+<p>The Korea Astronomy and Space Science Institute is conducting preliminary
+research on asteroid exploration missions, especially with<br> the aim of directly 
+exploring Apophis in 2029. The fact that an asteroid approaches the Earth means 
+that only a small amount of fuel<br> provides good conditions for the probe to reach
+the asteroid.</p>
+
+
+    
+<h1 style="font-size:50px;"><b>Calendar</b></h1>
+<hr>
+<p style="font-size:30px;" ><i>Harmony for humanity : Daniel pearl<br>
+Wolrd Music Concert</p>
+<hr>
+
+<p style="font-size:30px;">Sundays with the St. Lewrence String <br>Quartet</p>
+<hr>
+
+<p style="font-size:30px;">Merce Cunningham Dance Company</p>
+<hr>
+
+<p style="font-size:30px;">Juilliard String Quartet</i></p>
+<hr>
+
+</body>
+</html>
+
+
+
